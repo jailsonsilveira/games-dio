@@ -1,0 +1,11 @@
+* {
+    margin: 16px;
+}
+
+body {
+    text-align: center;
+}
+
+#tic-tac-toe {
+    /* border: 2px solid red; */
+}
